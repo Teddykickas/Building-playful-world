@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Building better landscape lessen", "Assembly-CSharp.csproj", "{4AF6961A-D602-E8C5-0B14-D2C51CB43622}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Building better landscape lessen", "Assembly-CSharp-Editor.csproj", "{6BBE9FEE-8D40-8A96-8E26-A4AE541FC853}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AF6961A-D602-E8C5-0B14-D2C51CB43622}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AF6961A-D602-E8C5-0B14-D2C51CB43622}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AF6961A-D602-E8C5-0B14-D2C51CB43622}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AF6961A-D602-E8C5-0B14-D2C51CB43622}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BBE9FEE-8D40-8A96-8E26-A4AE541FC853}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BBE9FEE-8D40-8A96-8E26-A4AE541FC853}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BBE9FEE-8D40-8A96-8E26-A4AE541FC853}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BBE9FEE-8D40-8A96-8E26-A4AE541FC853}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
